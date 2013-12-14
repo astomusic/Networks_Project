@@ -77,3 +77,4 @@
   <thread>14</thread>
   <message>./webapps/favicon.ico (No such file or directory)</message>
 </record>
+</log>
