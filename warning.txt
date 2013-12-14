@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-12T17:55:59</date>
+  <millis>1386838559723</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-14T19:03:21</date>
+  <millis>1387015401968</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-14T22:22:10</date>
+  <millis>1387027330223</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-14T22:22:43</date>
+  <millis>1387027363700</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
