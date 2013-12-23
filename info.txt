@@ -452,3 +452,4158 @@
   <message>Request Thread Start</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-14T22:56:22</date>
+  <millis>1387029382944</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:56:24</date>
+  <millis>1387029384526</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:56:24</date>
+  <millis>1387029384722</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:56:24</date>
+  <millis>1387029384723</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-14T22:56:26</date>
+  <millis>1387029386708</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:56:29</date>
+  <millis>1387029389763</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:57:59</date>
+  <millis>1387029479736</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-14T22:58:23</date>
+  <millis>1387029503813</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-21T16:01:01</date>
+  <millis>1387609261509</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:01:05</date>
+  <millis>1387609265567</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:01:20</date>
+  <millis>1387609280419</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:02:16</date>
+  <millis>1387609336982</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:08:13</date>
+  <millis>1387609693641</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:09:00</date>
+  <millis>1387609740456</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:09:02</date>
+  <millis>1387609742391</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:31:37</date>
+  <millis>1387611097476</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:31:40</date>
+  <millis>1387611100347</millis>
+  <sequence>8</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>18</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:31:40</date>
+  <millis>1387611100348</millis>
+  <sequence>9</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>18</thread>
+  <message>./webapps/hi (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-21T16:34:28</date>
+  <millis>1387611268396</millis>
+  <sequence>10</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:34:30</date>
+  <millis>1387611270731</millis>
+  <sequence>11</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-21T16:34:30</date>
+  <millis>1387611270733</millis>
+  <sequence>12</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>20</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:07</date>
+  <millis>1387692967088</millis>
+  <sequence>13</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>21</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:07</date>
+  <millis>1387692967089</millis>
+  <sequence>14</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>21</thread>
+  <message>./webapps</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-22T15:16:21</date>
+  <millis>1387692981963</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:28</date>
+  <millis>1387692988027</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:31</date>
+  <millis>1387692991509</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:31</date>
+  <millis>1387692991511</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:32</date>
+  <millis>1387692992920</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:32</date>
+  <millis>1387692992923</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:39</date>
+  <millis>1387692999670</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:39</date>
+  <millis>1387692999672</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:46</date>
+  <millis>1387693006983</millis>
+  <sequence>8</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:46</date>
+  <millis>1387693006984</millis>
+  <sequence>9</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>15</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:47</date>
+  <millis>1387693007670</millis>
+  <sequence>10</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:47</date>
+  <millis>1387693007671</millis>
+  <sequence>11</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>16</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:48</date>
+  <millis>1387693008164</millis>
+  <sequence>12</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:48</date>
+  <millis>1387693008165</millis>
+  <sequence>13</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>17</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:50</date>
+  <millis>1387693010812</millis>
+  <sequence>14</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>18</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:16:50</date>
+  <millis>1387693010813</millis>
+  <sequence>15</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>18</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:17:01</date>
+  <millis>1387693021070</millis>
+  <sequence>16</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>19</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:17:01</date>
+  <millis>1387693021072</millis>
+  <sequence>17</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>19</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T15:17:33</date>
+  <millis>1387693053758</millis>
+  <sequence>18</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>20</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T15:17:33</date>
+  <millis>1387693053759</millis>
+  <sequence>19</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>20</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:35</date>
+  <millis>1387697435109</millis>
+  <sequence>20</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>21</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:41</date>
+  <millis>1387697441040</millis>
+  <sequence>21</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>22</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:41</date>
+  <millis>1387697441042</millis>
+  <sequence>22</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>22</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:42</date>
+  <millis>1387697442736</millis>
+  <sequence>23</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>23</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:42</date>
+  <millis>1387697442738</millis>
+  <sequence>24</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>23</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:43</date>
+  <millis>1387697443338</millis>
+  <sequence>25</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>24</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:43</date>
+  <millis>1387697443339</millis>
+  <sequence>26</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>24</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:44</date>
+  <millis>1387697444659</millis>
+  <sequence>27</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>25</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:30:44</date>
+  <millis>1387697444660</millis>
+  <sequence>28</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>25</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:14</date>
+  <millis>1387697474216</millis>
+  <sequence>29</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>26</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:17</date>
+  <millis>1387697477210</millis>
+  <sequence>30</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>27</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:17</date>
+  <millis>1387697477212</millis>
+  <sequence>31</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>27</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:51</date>
+  <millis>1387697511564</millis>
+  <sequence>32</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>28</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:51</date>
+  <millis>1387697511596</millis>
+  <sequence>33</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>29</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:51</date>
+  <millis>1387697511621</millis>
+  <sequence>34</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>30</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:51</date>
+  <millis>1387697511621</millis>
+  <sequence>35</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>31</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:31:53</date>
+  <millis>1387697513422</millis>
+  <sequence>36</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>29</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:00</date>
+  <millis>1387697640517</millis>
+  <sequence>37</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>32</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:00</date>
+  <millis>1387697640537</millis>
+  <sequence>38</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>33</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:00</date>
+  <millis>1387697640550</millis>
+  <sequence>39</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>34</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:03</date>
+  <millis>1387697643110</millis>
+  <sequence>40</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>33</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:33</date>
+  <millis>1387697673922</millis>
+  <sequence>41</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>35</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:33</date>
+  <millis>1387697673972</millis>
+  <sequence>42</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>36</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:33</date>
+  <millis>1387697673996</millis>
+  <sequence>43</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>37</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:34:35</date>
+  <millis>1387697675919</millis>
+  <sequence>44</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>36</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:08</date>
+  <millis>1387697708705</millis>
+  <sequence>45</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>38</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:08</date>
+  <millis>1387697708726</millis>
+  <sequence>46</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>39</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:08</date>
+  <millis>1387697708730</millis>
+  <sequence>47</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>40</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:27</date>
+  <millis>1387697727271</millis>
+  <sequence>48</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>41</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:27</date>
+  <millis>1387697727272</millis>
+  <sequence>49</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>42</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:28</date>
+  <millis>1387697728915</millis>
+  <sequence>50</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>42</thread>
+  <message>./webapps/board/asdf/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:34</date>
+  <millis>1387697734298</millis>
+  <sequence>51</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>43</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:34</date>
+  <millis>1387697734327</millis>
+  <sequence>52</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>44</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:35:35</date>
+  <millis>1387697735478</millis>
+  <sequence>53</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>44</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:40:35</date>
+  <millis>1387698035028</millis>
+  <sequence>54</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>45</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:40:35</date>
+  <millis>1387698035030</millis>
+  <sequence>55</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>45</thread>
+  <message>./webapps/board/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T16:43:50</date>
+  <millis>1387698230722</millis>
+  <sequence>56</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>46</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:43:50</date>
+  <millis>1387698230761</millis>
+  <sequence>57</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>47</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T16:43:52</date>
+  <millis>1387698232617</millis>
+  <sequence>58</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>47</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T18:48:33</date>
+  <millis>1387705713362</millis>
+  <sequence>59</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>48</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:48:33</date>
+  <millis>1387705713363</millis>
+  <sequence>60</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>48</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T18:56:28</date>
+  <millis>1387706188481</millis>
+  <sequence>61</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>49</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:56:38</date>
+  <millis>1387706198572</millis>
+  <sequence>62</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>50</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:56:38</date>
+  <millis>1387706198573</millis>
+  <sequence>63</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>50</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T18:57:05</date>
+  <millis>1387706225858</millis>
+  <sequence>64</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>51</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:57:57</date>
+  <millis>1387706277477</millis>
+  <sequence>65</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>52</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:58:03</date>
+  <millis>1387706283282</millis>
+  <sequence>66</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>53</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:58:03</date>
+  <millis>1387706283283</millis>
+  <sequence>67</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>53</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T18:58:16</date>
+  <millis>1387706296524</millis>
+  <sequence>68</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>54</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:58:19</date>
+  <millis>1387706299406</millis>
+  <sequence>69</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>55</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:58:19</date>
+  <millis>1387706299417</millis>
+  <sequence>70</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>55</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T18:59:41</date>
+  <millis>1387706381344</millis>
+  <sequence>71</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>56</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:59:41</date>
+  <millis>1387706381371</millis>
+  <sequence>72</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>57</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-22T18:59:51</date>
+  <millis>1387706391116</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-22T18:59:55</date>
+  <millis>1387706395494</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:00:07</date>
+  <millis>1387706407454</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:00:07</date>
+  <millis>1387706407455</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-22T19:00:23</date>
+  <millis>1387706423822</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-22T19:00:30</date>
+  <millis>1387706430840</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:00:33</date>
+  <millis>1387706433480</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-22T19:01:56</date>
+  <millis>1387706516515</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:01:59</date>
+  <millis>1387706519293</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:02:04</date>
+  <millis>1387706524118</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-22T19:02:04</date>
+  <millis>1387706524119</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:05:40</date>
+  <millis>1387789540924</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:05:50</date>
+  <millis>1387789550535</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:05:51</date>
+  <millis>1387789551099</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:05:51</date>
+  <millis>1387789551100</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:05:59</date>
+  <millis>1387789559703</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:08:33</date>
+  <millis>1387789713940</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:08:33</date>
+  <millis>1387789713941</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:11:11</date>
+  <millis>1387789871685</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:11:35</date>
+  <millis>1387789895398</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:11:38</date>
+  <millis>1387789898263</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:12:02</date>
+  <millis>1387789922918</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:12:02</date>
+  <millis>1387789922919</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>Broken pipe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:14:03</date>
+  <millis>1387790043592</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:06</date>
+  <millis>1387790046694</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:14:32</date>
+  <millis>1387790072059</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:36</date>
+  <millis>1387790076247</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:46</date>
+  <millis>1387790086806</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:46</date>
+  <millis>1387790086808</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>Connection reset</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:48</date>
+  <millis>1387790088181</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>Broken pipe</message>
+</record>
+<record>
+  <date>2013-12-23T18:14:48</date>
+  <millis>1387790088182</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:15:41</date>
+  <millis>1387790141972</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:15:44</date>
+  <millis>1387790144442</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:15:44</date>
+  <millis>1387790144512</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:15:44</date>
+  <millis>1387790144513</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:15:52</date>
+  <millis>1387790152897</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:15:52</date>
+  <millis>1387790152898</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:16:19</date>
+  <millis>1387790179085</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:16:22</date>
+  <millis>1387790182671</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:16:23</date>
+  <millis>1387790183772</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:16:23</date>
+  <millis>1387790183773</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:16:27</date>
+  <millis>1387790187318</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:16:27</date>
+  <millis>1387790187320</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:17:15</date>
+  <millis>1387790235450</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:17:19</date>
+  <millis>1387790239502</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:17:20</date>
+  <millis>1387790240677</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:17:20</date>
+  <millis>1387790240678</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:17:35</date>
+  <millis>1387790255415</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:17:35</date>
+  <millis>1387790255416</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:18:47</date>
+  <millis>1387790327895</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:18:53</date>
+  <millis>1387790333304</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:21:18</date>
+  <millis>1387790478955</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:21:28</date>
+  <millis>1387790488007</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:21:28</date>
+  <millis>1387790488074</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:21:28</date>
+  <millis>1387790488076</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:21:40</date>
+  <millis>1387790500319</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:21:40</date>
+  <millis>1387790500320</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:22:38</date>
+  <millis>1387790558292</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:22:40</date>
+  <millis>1387790560690</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:22:59</date>
+  <millis>1387790579358</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:01</date>
+  <millis>1387790581120</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:08</date>
+  <millis>1387790588081</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>Broken pipe</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:23:44</date>
+  <millis>1387790624211</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:46</date>
+  <millis>1387790626937</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:54</date>
+  <millis>1387790634398</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>Broken pipe</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:56</date>
+  <millis>1387790636177</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:23:59</date>
+  <millis>1387790639973</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>Broken pipe</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:24:34</date>
+  <millis>1387790674550</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:24:36</date>
+  <millis>1387790676011</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:24:56</date>
+  <millis>1387790696993</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:25:00</date>
+  <millis>1387790700700</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:25:32</date>
+  <millis>1387790732127</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:25:34</date>
+  <millis>1387790734501</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:29:19</date>
+  <millis>1387790959274</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:29:22</date>
+  <millis>1387790962781</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:29:27</date>
+  <millis>1387790967352</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:29:27</date>
+  <millis>1387790967423</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:29:27</date>
+  <millis>1387790967424</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:29:30</date>
+  <millis>1387790970329</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:29:30</date>
+  <millis>1387790970331</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:34:18</date>
+  <millis>1387791258151</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:23</date>
+  <millis>1387791263809</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:24</date>
+  <millis>1387791264009</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:28</date>
+  <millis>1387791268665</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:29</date>
+  <millis>1387791269061</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:29</date>
+  <millis>1387791269062</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:34:36</date>
+  <millis>1387791276011</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:40:32</date>
+  <millis>1387791632943</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:40:41</date>
+  <millis>1387791641866</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:40:44</date>
+  <millis>1387791644755</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:40:45</date>
+  <millis>1387791645791</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:40:53</date>
+  <millis>1387791653639</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:40:56</date>
+  <millis>1387791656273</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:42:45</date>
+  <millis>1387791765098</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:42:48</date>
+  <millis>1387791768386</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:42:48</date>
+  <millis>1387791768556</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:42:48</date>
+  <millis>1387791768557</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:43:30</date>
+  <millis>1387791810161</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:43:33</date>
+  <millis>1387791813106</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:43:33</date>
+  <millis>1387791813185</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:43:36</date>
+  <millis>1387791816351</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:43:40</date>
+  <millis>1387791820827</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:43:40</date>
+  <millis>1387791820828</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:46:03</date>
+  <millis>1387791963451</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:07</date>
+  <millis>1387791967075</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:07</date>
+  <millis>1387791967145</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:07</date>
+  <millis>1387791967146</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:10</date>
+  <millis>1387791970184</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:12</date>
+  <millis>1387791972993</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:46:12</date>
+  <millis>1387791972994</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T18:50:38</date>
+  <millis>1387792238363</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:50:44</date>
+  <millis>1387792244975</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:50:45</date>
+  <millis>1387792245500</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T18:50:45</date>
+  <millis>1387792245501</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T18:50:50</date>
+  <millis>1387792250094</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T19:07:41</date>
+  <millis>1387793261252</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:48</date>
+  <millis>1387793268425</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:48</date>
+  <millis>1387793268528</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:48</date>
+  <millis>1387793268529</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:51</date>
+  <millis>1387793271846</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:55</date>
+  <millis>1387793275692</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:07:55</date>
+  <millis>1387793275698</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T19:08:49</date>
+  <millis>1387793329699</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:08:52</date>
+  <millis>1387793332175</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:08:52</date>
+  <millis>1387793332347</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:08:52</date>
+  <millis>1387793332348</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:08:56</date>
+  <millis>1387793336099</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:08:56</date>
+  <millis>1387793336106</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T19:11:48</date>
+  <millis>1387793508474</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:11:52</date>
+  <millis>1387793512530</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:11:54</date>
+  <millis>1387793514892</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:11:54</date>
+  <millis>1387793514895</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:18</date>
+  <millis>1387793718251</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:39</date>
+  <millis>1387793739373</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:42</date>
+  <millis>1387793742674</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:43</date>
+  <millis>1387793743164</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:43</date>
+  <millis>1387793743165</millis>
+  <sequence>8</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>15</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:46</date>
+  <millis>1387793746692</millis>
+  <sequence>9</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>16</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:15:46</date>
+  <millis>1387793746695</millis>
+  <sequence>10</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>16</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:16:13</date>
+  <millis>1387793773264</millis>
+  <sequence>11</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>17</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:16:13</date>
+  <millis>1387793773267</millis>
+  <sequence>12</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>17</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:16:32</date>
+  <millis>1387793792702</millis>
+  <sequence>13</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>18</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:16:32</date>
+  <millis>1387793792706</millis>
+  <sequence>14</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>18</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T19:19:23</date>
+  <millis>1387793963017</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:19:25</date>
+  <millis>1387793965881</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:19:25</date>
+  <millis>1387793965981</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T19:19:25</date>
+  <millis>1387793965982</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T19:19:29</date>
+  <millis>1387793969106</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:04:40</date>
+  <millis>1387800280461</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:04:42</date>
+  <millis>1387800282525</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:04:42</date>
+  <millis>1387800282722</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:04:42</date>
+  <millis>1387800282722</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:04:48</date>
+  <millis>1387800288329</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:06:22</date>
+  <millis>1387800382152</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:06:23</date>
+  <millis>1387800383549</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:06:23</date>
+  <millis>1387800383676</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:06:23</date>
+  <millis>1387800383677</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:06:26</date>
+  <millis>1387800386002</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:06:26</date>
+  <millis>1387800386007</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:15:09</date>
+  <millis>1387800909728</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:15:13</date>
+  <millis>1387800913550</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:15:13</date>
+  <millis>1387800913638</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:15:13</date>
+  <millis>1387800913639</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:15:16</date>
+  <millis>1387800916306</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:15:21</date>
+  <millis>1387800921541</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:18:49</date>
+  <millis>1387801129901</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:18:52</date>
+  <millis>1387801132444</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:18:52</date>
+  <millis>1387801132445</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:18:52</date>
+  <millis>1387801132446</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:18:52</date>
+  <millis>1387801132562</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:18:55</date>
+  <millis>1387801135844</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:23:18</date>
+  <millis>1387801398252</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:23:24</date>
+  <millis>1387801404838</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:23:24</date>
+  <millis>1387801404839</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:23:24</date>
+  <millis>1387801404840</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:23:25</date>
+  <millis>1387801405094</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:25:02</date>
+  <millis>1387801502404</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:25:04</date>
+  <millis>1387801504474</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:25:04</date>
+  <millis>1387801504509</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:25:04</date>
+  <millis>1387801504510</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:25:04</date>
+  <millis>1387801504511</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:25:04</date>
+  <millis>1387801504951</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:26:23</date>
+  <millis>1387801583269</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:26</date>
+  <millis>1387801586990</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:27</date>
+  <millis>1387801587026</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:27</date>
+  <millis>1387801587027</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:27</date>
+  <millis>1387801587027</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:28</date>
+  <millis>1387801588275</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:26:39</date>
+  <millis>1387801599337</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:27:08</date>
+  <millis>1387801628218</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:27:11</date>
+  <millis>1387801631386</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:27:11</date>
+  <millis>1387801631428</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:27:12</date>
+  <millis>1387801632922</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:27:15</date>
+  <millis>1387801635853</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:27:15</date>
+  <millis>1387801635857</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:39:05</date>
+  <millis>1387802345155</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:39:09</date>
+  <millis>1387802349324</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:39:09</date>
+  <millis>1387802349624</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:39:09</date>
+  <millis>1387802349625</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:39:12</date>
+  <millis>1387802352895</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:42:52</date>
+  <millis>1387802572927</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:42:55</date>
+  <millis>1387802575678</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:42:56</date>
+  <millis>1387802576726</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:42:56</date>
+  <millis>1387802576727</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:42:58</date>
+  <millis>1387802578728</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:42:58</date>
+  <millis>1387802578734</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:57:44</date>
+  <millis>1387803464627</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:57:46</date>
+  <millis>1387803466822</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:57:46</date>
+  <millis>1387803466822</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:57:47</date>
+  <millis>1387803467195</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:58:21</date>
+  <millis>1387803501488</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:58:23</date>
+  <millis>1387803503034</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:58:23</date>
+  <millis>1387803503294</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:58:23</date>
+  <millis>1387803503294</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:58:43</date>
+  <millis>1387803523685</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:58:43</date>
+  <millis>1387803523691</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/comments.json (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T21:59:20</date>
+  <millis>1387803560100</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:59:22</date>
+  <millis>1387803562709</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:59:22</date>
+  <millis>1387803562911</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:59:22</date>
+  <millis>1387803562912</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T21:59:26</date>
+  <millis>1387803566826</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T21:59:26</date>
+  <millis>1387803566832</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:00:05</date>
+  <millis>1387803605126</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:00:07</date>
+  <millis>1387803607352</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:00:08</date>
+  <millis>1387803608541</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:00:08</date>
+  <millis>1387803608542</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T22:00:11</date>
+  <millis>1387803611269</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:00:18</date>
+  <millis>1387803618420</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:01:30</date>
+  <millis>1387803690216</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:02:24</date>
+  <millis>1387803744308</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:02:26</date>
+  <millis>1387803746838</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:02:26</date>
+  <millis>1387803746867</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:02:26</date>
+  <millis>1387803746876</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:02:26</date>
+  <millis>1387803746928</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:06:55</date>
+  <millis>1387804015071</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:06</date>
+  <millis>1387804026831</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:06</date>
+  <millis>1387804026833</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:06</date>
+  <millis>1387804026834</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:06</date>
+  <millis>1387804026941</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:10</date>
+  <millis>1387804030491</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>Socket closed</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:34</date>
+  <millis>1387804054798</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:07:34</date>
+  <millis>1387804054799</millis>
+  <sequence>7</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>14</thread>
+  <message>Socket closed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:08:12</date>
+  <millis>1387804092212</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:15</date>
+  <millis>1387804095261</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:08:26</date>
+  <millis>1387804106388</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:29</date>
+  <millis>1387804109589</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:31</date>
+  <millis>1387804111871</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:31</date>
+  <millis>1387804111872</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>11</thread>
+  <message>Socket closed</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:31</date>
+  <millis>1387804111904</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:31</date>
+  <millis>1387804111905</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:08:33</date>
+  <millis>1387804113063</millis>
+  <sequence>6</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:11:54</date>
+  <millis>1387804314470</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:11:56</date>
+  <millis>1387804316872</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:11:56</date>
+  <millis>1387804316917</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:11:56</date>
+  <millis>1387804316918</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:11:56</date>
+  <millis>1387804316918</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:11:57</date>
+  <millis>1387804317389</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-23T22:12:49</date>
+  <millis>1387804369964</millis>
+  <sequence>0</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>10</thread>
+  <message>WebServer Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:12:51</date>
+  <millis>1387804371578</millis>
+  <sequence>1</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>11</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:12:51</date>
+  <millis>1387804371613</millis>
+  <sequence>2</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>12</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:12:51</date>
+  <millis>1387804371613</millis>
+  <sequence>3</sequence>
+  <logger>logging</logger>
+  <level>INFO</level>
+  <class>LogHandler</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Request Thread Start</message>
+</record>
+<record>
+  <date>2013-12-23T22:12:52</date>
+  <millis>1387804372755</millis>
+  <sequence>4</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>12</thread>
+  <message>./webapps/favicon.ico (No such file or directory)</message>
+</record>
+<record>
+  <date>2013-12-23T22:12:54</date>
+  <millis>1387804374287</millis>
+  <sequence>5</sequence>
+  <logger>logging</logger>
+  <level>WARNING</level>
+  <class>LogHandler</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>./webapps</message>
+</record>
