@@ -22,21 +22,21 @@
 		var oFormData = new FormData(eleForm); //form data들을 자동으로 묶어준다.
 		textbox[0].value = "";
 		var sID = eleForm[0].value;
-		var url = "/";
+		var url = "/reponse.json";
 		var request = new XMLHttpRequest();
 		request.open("POST" , url, true);
 		request.onreadystatechange = function() {
 			if(request.readyState ==4 && request.status ==200) {
 				var obj = JSON.parse(request.responseText);
-				var eleCommentList = eleForm.parentNode.previousElementSibling;
-				var eleCommentListul = eleCommentList.querySelectorAll('ul');
-				var str_del = "<button type=\"button\" name=\"c_delete\" onclick=\'javascript:void(0)\' id=\""+obj.id+"\">x</button>"
-				eleCommentListul[0].insertAdjacentHTML("beforeend" , "<li>"+obj.content+str_del+"</li>" );
-				var eleCommentListli = eleCommentList.querySelectorAll('ul>li');
-				eleCommentList.style.height = eleCommentListli.length * 19 + "px";
-				eleCommentList.style.opacity = "1";
-				countComments();
-				registerEvents();
+				console.log(obj);
+				var element = document.querySelectorAll('#view ul');
+				var str_del = "<li>"+obj.content+"</li>";
+				element[0].insertAdjacentHTML("beforeend" , str_del );
+				//var eleCommentListli = eleCommentList.querySelectorAll('ul>li');
+				//eleCommentList.style.height = eleCommentListli.length * 19 + "px";
+				//eleCommentList.style.opacity = "1";
+				//countComments();
+				//registerEvents();
 			}
 		}
 		request.send(oFormData);
@@ -49,6 +49,9 @@
 <body>
 	<h1>Image 1</h1>
 	<img src="http://pds23.egloos.com/logo/201208/13/28/e0127128.jpg">
+	<div id ="view">
+	<ul></ul>
+	</div>
 	<div id="comment">
 	<form action="/" method="POST" enctype="multipart/form-data">
 		<input type="text" id="content" name="content" placeholder="댓글을 입력하세요">
