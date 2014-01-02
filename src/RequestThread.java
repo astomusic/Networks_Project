@@ -54,6 +54,10 @@ public class RequestThread extends Thread {
 					header = br.readLine();
 					System.out.println(header);
 				}
+				while (!"".equals(header) && header != null) {
+					header = br.readLine();
+					System.out.println(header);
+				}
 			} else {
 				int value;
 				int length = 0;
@@ -84,9 +88,9 @@ public class RequestThread extends Thread {
 					//System.out.print(c);
 					
 				}
-				System.out.print(myArrayList.get(3));
-				String str = myArrayList.get(3);
-				jsonData = "{\"content\":\"" + str + "\"}";
+//				System.out.print(myArrayList.get(3));
+//				String str = myArrayList.get(3);
+//				jsonData = "{\"content\":\"" + str + "\"}";
 			}
 			
 
